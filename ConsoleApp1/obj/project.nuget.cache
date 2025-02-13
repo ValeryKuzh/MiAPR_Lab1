@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Fwy63gti2Q=",
+  "success": true,
+  "projectFilePath": "D:\\Учёба\\MaAAS\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mi\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.2\\microsoft.win32.systemevents.9.0.2.nupkg.sha512",
+    "C:\\Users\\Mi\\.nuget\\packages\\system.drawing.common\\9.0.2\\system.drawing.common.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
